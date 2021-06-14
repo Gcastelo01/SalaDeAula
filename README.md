@@ -14,5 +14,5 @@ O programa foi elaborado para treinar o uso de BST's (Binary Search Trees), atra
 
 # Instruções de Compilação e execução
 
-    g++ Aluno.cpp BST.cpp main.cpp -o main.exe
-    ./main.exe
+    $ g++ Aluno.cpp BST.cpp main.cpp -o main.exe
+    $ ./main.exe
